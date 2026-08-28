@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://veramasaitsol.github.io/resources-b8p1k8/sitemap.xml
